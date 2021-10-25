@@ -11,3 +11,16 @@ C:\Users\Bauty Garcia\OneDrive\Escritorio\LolEsports\obj\Debug\LolEsports.pdb
 C:\Users\Bauty Garcia\OneDrive\Escritorio\LolEsports\obj\Debug\LolEsports.CambiarEquipo.resources
 C:\Users\Bauty Garcia\OneDrive\Escritorio\LolEsports\obj\Debug\LolEsports.Login.resources
 C:\Users\Bauty Garcia\OneDrive\Escritorio\LolEsports\obj\Debug\LolEsports.MenuEquipos.resources
+C:\Users\47026765\Desktop\LolEsports\bin\Debug\LolEsports.exe.config
+C:\Users\47026765\Desktop\LolEsports\bin\Debug\LolEsports.exe
+C:\Users\47026765\Desktop\LolEsports\bin\Debug\LolEsports.pdb
+C:\Users\47026765\Desktop\LolEsports\obj\Debug\LolEsports.csprojAssemblyReference.cache
+C:\Users\47026765\Desktop\LolEsports\obj\Debug\LolEsports.CambiarEquipo.resources
+C:\Users\47026765\Desktop\LolEsports\obj\Debug\LolEsports.Login.resources
+C:\Users\47026765\Desktop\LolEsports\obj\Debug\LolEsports.MenuEquipos.resources
+C:\Users\47026765\Desktop\LolEsports\obj\Debug\LolEsports.Register.resources
+C:\Users\47026765\Desktop\LolEsports\obj\Debug\LolEsports.Properties.Resources.resources
+C:\Users\47026765\Desktop\LolEsports\obj\Debug\LolEsports.csproj.GenerateResource.cache
+C:\Users\47026765\Desktop\LolEsports\obj\Debug\LolEsports.csproj.CoreCompileInputs.cache
+C:\Users\47026765\Desktop\LolEsports\obj\Debug\LolEsports.exe
+C:\Users\47026765\Desktop\LolEsports\obj\Debug\LolEsports.pdb

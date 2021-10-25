@@ -25,20 +25,22 @@ namespace LolEsports
             {
                 connection.ConnectionString = @"Provider=Microsoft.ACE.OLEDB.12.0;Data Source=BaseEquiposLol.accdb";
 
+                
+
                 lblBienvenido.Text = "Hola! Bienvenid@ " + Login.ObtenerDatosUsuario.NombreDelUsuario;
 
                 connection.Open();
                 OleDbCommand command = new OleDbCommand();
                 command.Connection = connection;
 
-                command.CommandText = "SELECT * FROM Equipos WHERE ID=" + Login.ObtenerDatosUsuario.IDUsuarioActivo + "";
+                command.CommandText = "SELECT * FROM Equipos WHERE ID=" + Login.ObtenerDatosUsuario.IDEquipoWinner + "";
                 OleDbDataReader reader = command.ExecuteReader();
                 reader.Read();
                 string PredictionEquipo = reader["Nombre"].ToString();
 
 
 
-                lblPredict.Text = "Deporte Favorito: " + PredictionEquipo;
+                lblPredict.Text = "Su prediccion es: " + PredictionEquipo;
             }
             catch (Exception ex)
             {
@@ -60,7 +62,7 @@ namespace LolEsports
         private void CambiarEquipo_Click(object sender, EventArgs e)
         {
             this.Hide();
-            new MenuEquipos().ShowDialog();
+            new CambiarEquipo().ShowDialog();
             this.Show();
         }
     }

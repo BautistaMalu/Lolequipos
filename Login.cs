@@ -68,7 +68,7 @@ namespace LolEsports
                     Login.ObtenerDatosUsuario.NombreDelUsuario = txtUsuario.Text;
                     Login.ObtenerDatosUsuario.IDEquipoWinner = Convert.ToInt32(EquipoFav);
 
-                    MessageBox.Show(Convert.ToString(UsuarioID));
+                    
 
                     this.Hide();
                     new MenuEquipos().ShowDialog();
