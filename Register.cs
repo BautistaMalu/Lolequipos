@@ -80,5 +80,49 @@ namespace LolEsports
             new Login().ShowDialog();
             this.Show();
         }
+
+        private void txtUsuario_Leave(object sender, EventArgs e)
+        {
+            if (txtUsuario.Text == "")
+            {
+                txtUsuario.Text = "Usuario";
+
+                txtUsuario.ForeColor = Color.DarkGray;
+            }
+        }
+
+        private void txtUsuario_Enter(object sender, EventArgs e)
+        {
+            if (txtUsuario.Text == "Usuario")
+            {
+                txtUsuario.Text = "";
+
+                txtUsuario.ForeColor = Color.Black;
+            }
+        }
+
+        private void txtContra_Enter(object sender, EventArgs e)
+        {
+            if (txtContra.Text == "Contraseña")
+            {
+                txtContra.Text = "";
+
+                txtContra.ForeColor = Color.Black;
+
+                txtContra.PasswordChar = '*';
+            }
+        }
+
+        private void txtContra_Leave_1(object sender, EventArgs e)
+        {
+            if (txtContra.Text == "")
+            {
+                txtContra.Text = "Contraseña";
+
+                txtContra.ForeColor = Color.DarkGray;
+
+                txtContra.PasswordChar = (char)0;
+            }
+        }
     }
 }
