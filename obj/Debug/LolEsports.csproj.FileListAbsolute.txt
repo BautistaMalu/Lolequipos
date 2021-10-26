@@ -24,3 +24,16 @@ C:\Users\47026765\Desktop\LolEsports\obj\Debug\LolEsports.csproj.GenerateResourc
 C:\Users\47026765\Desktop\LolEsports\obj\Debug\LolEsports.csproj.CoreCompileInputs.cache
 C:\Users\47026765\Desktop\LolEsports\obj\Debug\LolEsports.exe
 C:\Users\47026765\Desktop\LolEsports\obj\Debug\LolEsports.pdb
+C:\Users\46754732\Desktop\EquiposLol\bin\Debug\LolEsports.exe.config
+C:\Users\46754732\Desktop\EquiposLol\bin\Debug\LolEsports.exe
+C:\Users\46754732\Desktop\EquiposLol\bin\Debug\LolEsports.pdb
+C:\Users\46754732\Desktop\EquiposLol\obj\Debug\LolEsports.csprojAssemblyReference.cache
+C:\Users\46754732\Desktop\EquiposLol\obj\Debug\LolEsports.CambiarEquipo.resources
+C:\Users\46754732\Desktop\EquiposLol\obj\Debug\LolEsports.Login.resources
+C:\Users\46754732\Desktop\EquiposLol\obj\Debug\LolEsports.MenuEquipos.resources
+C:\Users\46754732\Desktop\EquiposLol\obj\Debug\LolEsports.Register.resources
+C:\Users\46754732\Desktop\EquiposLol\obj\Debug\LolEsports.Properties.Resources.resources
+C:\Users\46754732\Desktop\EquiposLol\obj\Debug\LolEsports.csproj.GenerateResource.cache
+C:\Users\46754732\Desktop\EquiposLol\obj\Debug\LolEsports.csproj.CoreCompileInputs.cache
+C:\Users\46754732\Desktop\EquiposLol\obj\Debug\LolEsports.exe
+C:\Users\46754732\Desktop\EquiposLol\obj\Debug\LolEsports.pdb
