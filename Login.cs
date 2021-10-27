@@ -62,9 +62,7 @@ namespace LolEsports
                     OleDbDataReader reader2 = command2.ExecuteReader();
                     reader2.Read();
 
-                    string UsuarioID = reader2["ID"].ToString();
                     string EquipoFav = reader2["EquipoGanador"].ToString();
-                    Login.ObtenerDatosUsuario.IDUsuarioActivo = Convert.ToInt32(UsuarioID);
                     Login.ObtenerDatosUsuario.NombreDelUsuario = txtUsuario.Text;
                     Login.ObtenerDatosUsuario.IDEquipoWinner = Convert.ToInt32(EquipoFav);
 
